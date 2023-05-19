@@ -1,7 +1,7 @@
 # Descriptive Analytics of Wine Quality Dataset
 
 This Jupyter Notebook contains exploratory data analysis and visualizations of the winequality dataset. The dataset contains information on various attributes of wine samples, such as pH, alcohol content, and quality rating. <br/>
-**Author**: Agata Dratwa
+
 ## Dataset
 
 In the analysis two dataset were used. One for the white wine and the other for the red one. Both can be found in repository. Each of datasets contains 13 input variables and one output variable (quality rating) for a total of 1598 and 4898 samples.
